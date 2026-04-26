@@ -1,6 +1,6 @@
 # ComfyUI Module
 
-![License: MIT](https://img.shields.io/github/license/rookiemann/comfyui-portable-installer) ![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue) ![Python](https://img.shields.io/badge/Python-3.12-green) ![ComfyUI](https://img.shields.io/badge/ComfyUI-Latest-purple)
+![License: MIT](https://img.shields.io/github/license/aivrar/comfyui-portable-installer) ![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue) ![Python](https://img.shields.io/badge/Python-3.12-green) ![ComfyUI](https://img.shields.io/badge/ComfyUI-Latest-purple)
 
 **One click. No Docker. No Python. No Git. No admin rights. Fully portable.**
 
@@ -406,7 +406,7 @@ Models in the registry are hosted by their respective creators on [HuggingFace](
 
 ### Built With
 
-This project was designed and built by **[@rookiemann](https://github.com/rookiemann)** with **[Claude Code](https://claude.ai/claude-code)** (Anthropic's Claude Opus 4.6) as a pair-programming partner -- architecture, implementation, testing, and documentation.
+This project was designed and built by **[@aivrar](https://github.com/aivrar)** with **[Claude Code](https://claude.ai/claude-code)** (Anthropic's Claude Opus 4.6) as a pair-programming partner -- architecture, implementation, testing, and documentation.
 
 ---
 
